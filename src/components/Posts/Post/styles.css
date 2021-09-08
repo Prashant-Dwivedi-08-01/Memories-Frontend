@@ -1,0 +1,38 @@
+.creator{
+    color: #6f6f6f;
+    display: inline-block;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.card-post{
+    width: 280px;
+    margin: 12px;
+    border-radius: 16px;
+    box-shadow: 0px 17px 24px -9px #111;
+    /* height: 489px; */
+}
+.card-img-top{
+    filter: brightness(70%);
+    height: 193px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.memory-title-div{
+    position: absolute;
+    top: 8px;
+    color: white;
+}
+.memory-title{
+    font-family: 'Otomanopee One', sans-serif;
+}
+.tags{
+    margin: 0;
+    padding-left: 14px;
+}
+.delete-btn{
+    position: relative;
+    top: 73px;
+    float: right;
+}

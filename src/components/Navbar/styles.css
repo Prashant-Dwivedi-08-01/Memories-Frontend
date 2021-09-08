@@ -1,0 +1,46 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    margin-top: 16px;
+    justify-content: space-between;
+    border-radius: 9px;
+    padding-left: 2rem;
+    padding-right: 3rem;
+}
+.nav-image-div{
+    display: flex;
+}
+
+#navbarImage{
+    width: 57px;
+}
+
+
+
+.link-tag{
+    text-decoration: none;
+    color: black;
+}
+
+.link-tag:hover{
+    color: black;
+}
+
+.user-detail{
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+    width: 305px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.profile-image{
+    width: 45px;
+    border-radius: 50%;
+}
+.auth-toggle-btn{
+    font-size: 1rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 4px 29px;
+}
+

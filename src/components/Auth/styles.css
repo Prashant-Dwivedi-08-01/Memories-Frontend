@@ -1,0 +1,45 @@
+.form-div {
+        position: relative;
+        width: 25rem;
+        margin-top: 101px;
+        margin: 4% auto;
+        padding: 24px 21px;
+        background-color: white;
+}
+
+.heading{
+    text-align: center;
+    padding: 2px;
+}
+
+.auth-icon{
+    display: inline;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.question-btn{
+    margin: 0% 19%;
+    margin-top: 4%;
+}
+.google-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a, a:hover{
+    color:#333
+  }
+
+.input-group{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.addon{
+    margin-left: 4px;
+}

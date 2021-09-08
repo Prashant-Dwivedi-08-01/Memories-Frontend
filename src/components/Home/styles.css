@@ -1,0 +1,6 @@
+.search-form-div{
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
